@@ -1,6 +1,6 @@
 # GMC_CRASH_PREDICTIONS
 
-Conducted text Classification analysis of the data using POS, stop words and stemming for building the term/doc matrix.
+Conducted Text Classification analysis of the data using POS, stop words and stemming for building the term/doc matrix.
 Developed a regression model to predict the probability of the crash based on the attributes mentioned in the customer complaints.
 
 A preview of the dataset:
